@@ -1,3 +1,3 @@
-# @brr-dev/hotkey
+# @brr-dev/typescript-package-template
 
-A simple, lightweight hotkey-binding framework with no external dependencies.
+A template repo for bundling TypeScript packages.
