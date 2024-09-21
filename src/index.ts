@@ -1,5 +1,8 @@
-export function add(a: number, b: number): number {
-    return a + b;
-}
+/*
+ * @author Brandon Ramirez <brandon@brr.dev>
+ * @copyright Copyright (c) 2024
+ */
 
-console.log('add', add(1, 2));
+export function testFunc(): void {
+    console.log('Test success.');
+}
