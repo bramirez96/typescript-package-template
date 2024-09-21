@@ -12,7 +12,7 @@
   ],
   "scripts": {
     "build": "tsup",
-    "text": "jest",
+    "test": "jest",
     "prepare": "pnpm build"
   },
   "keywords": [
